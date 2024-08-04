@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridham</h1>
 <h3 align="center">A passionate Machine Learning and Software Engineer Third Year Student from Arizona State University</h3>
 
-- 🔭 I’m currently working on [GITHUB REPOSITORY WEB SCRAPER](https://github.com/rcodeborg2311/GITHUB_REPO_AI_FINDER)
+- 🔭 I’m currently working on [GITHUB REPOSITORY FINDER](https://github.com/rcodeborg2311/GITHUB_REPO_AI_FINDER)
 
 - 🌱 I’m currently learning **Reinforcement Learning Techniques**
 
@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="https://raw.githubusercontent.com/rcodeborg2311/rcodeborg2311/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -36,23 +35,6 @@
   <img height="200" src="https://media1.tenor.com/m/bxe8Qsx3UusAAAAC/cat.gif"  />
 </div>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -62,8 +44,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
