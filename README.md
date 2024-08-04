@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ridham</h1>
 <h3 align="center">A passionate Machine Learning and Software Engineer Third Year Student from Arizona State University</h3>
 
@@ -21,7 +20,7 @@
   <a href="mailto:ridhamap@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/ridham-patel-2003as12/">
+  <a href="https://www.linkedin.com/in/ridhamap">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </p>
@@ -47,7 +46,11 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60" />
   </a>
-  <img height="200" src="https://media1.tenor.com/images/bxe8Qsx3UusAAAAC/cat.gif" alt="cat gif" />
+  
+</div>
+
+<div align = "right">
+<img style="margin-left: 20px;" height="200" src="https://media1.tenor.com/m/bxe8Qsx3UusAAAAC/cat.gif" alt="cat gif" />
 </div>
 
 <div align="left">
@@ -68,4 +71,10 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   </p>
+</div>
+
+
+<div style="text-align: center; margin-top: 50px;">
+  <h1 style="font-family: 'Brush Script MT', cursive; font-size: 48px; color: #FF4500;">Carpe Diem.</h1>
+  <h2 style="font-size: 36px; color: #0000FF;">Bye!</h2>
 </div>
