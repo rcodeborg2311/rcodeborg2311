@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridham</h1>
-<h3 align="center">A passionate Machine Learning and Software Engineer Third Year Student from Arizona State University</h3>
+<h3 align="center">A passionate Machine Learning enthusiast and Software Engineering student in my third year at Arizona State University</h3>
 
 - 🔭 I’m currently working on [GITHUB REPOSITORY FINDER](https://github.com/rcodeborg2311/GITHUB_REPO_AI_FINDER)
 
