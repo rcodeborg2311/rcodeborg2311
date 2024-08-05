@@ -49,7 +49,7 @@
   
 </div>
 
-<div align = "right">
+<div align = "left">
 <img style="margin-left: 20px;" height="200" src="https://media1.tenor.com/m/bxe8Qsx3UusAAAAC/cat.gif" alt="cat gif" />
 </div>
 
