@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning Techniques**
 
-- 👯 I’m looking to collaborate on **AI + QUANTUM RESEARCH IDEAS**
+- 👯 I’m looking to collaborate on **AI + Quantum Computing RESEARCH IDEAS**
 
 - 📝 I regularly write articles on [starting soon on bear blog](starting soon on bear blog)
 
