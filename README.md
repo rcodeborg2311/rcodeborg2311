@@ -10,7 +10,7 @@
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="mailto:ridham412work@gmail.com">
+  <a href="mailto:ridhamap@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/ridham-patel-2003as12/">
@@ -33,7 +33,7 @@
 **[RL Market-Making Agent](https://rlmarketmaker-7yho3khdjxpcsppuwappuas.streamlit.app/)** · Python, PyTorch, Plotly Dash
 > PPO-trained agent quoting BTC-USD bid/ask spreads from Coinbase Advanced Trade REST API data. Implements Avellaneda-Stoikov reward shaping with a 20-dimensional microstructure state vector — achieves 2.4× higher PnL vs. TWAP baseline across 100 out-of-sample episodes.
 
-**[Snap2Plan](https://snap2plan.vercel.app)** · Next.js 16, TypeScript, Supabase
+**[Snap2Plan](https://snap-2-plan.vercel.app/)** · Next.js 16, TypeScript, Supabase
 > AI-powered SaaS task manager using Claude (Anthropic) and Gemini Vision APIs to extract structured tasks from handwritten notes, photos, and voice input. Features real-time Kanban sync, Google Calendar OAuth 2.0, and automated email reminders via Vercel cron.
 
 **[PageCraft AI](https://github.com/rcodeborg2311)** · TypeScript, React, Express
