@@ -7,7 +7,6 @@
 </p>
 
 <br/>
-
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="mailto:ridhamap@gmail.com">
@@ -15,6 +14,10 @@
   </a>
   <a href="https://www.linkedin.com/in/ridham-patel-2003as12/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  </a>
+  <a href="https://www.ridhamcodes.com">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </p>
 
