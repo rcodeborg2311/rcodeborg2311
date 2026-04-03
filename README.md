@@ -74,7 +74,7 @@
 
 <h3 align="left">📬 Reach Me</h3>
 
-- 📧 ridhamap@gmail.com
+- 📧 ridham412work@gmail.com
 - 💼 [linkedin.com/in/ridham-patel-2003as12](https://www.linkedin.com/in/ridham-patel-2003as12/)
 - 💻 [github.com/rcodeborg2311](https://github.com/rcodeborg2311)
 
