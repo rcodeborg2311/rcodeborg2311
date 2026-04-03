@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/ridham-patel-2003as12/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  </a>
   <a href="https://www.ridhamcodes.com">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
@@ -26,6 +25,9 @@
 ---
 
 <h3 align="left">🚀 Featured Projects</h3>
+
+**[Heston Stochastic Volatility Calibration Engine](https://heston-calibration-engine.vercel.app/)** · C++20, Python, FastAPI
+> Production-grade options pricing and calibration engine implementing the Heston model via Carr-Madan FFT (N=4096, FFTW3), two-phase Differential Evolution + Levenberg-Marquardt calibration, and a Craig-Sneyd ADI PDE solver. Achieves sub-basis-point RMSE with 139/139 Catch2 tests passing, deployed as a live interactive dashboard.
 
 **[Lock-Free Limit Order Book](https://lob-engine-lock-free.vercel.app/)** · C++20, React, TypeScript
 > Price-time priority matching engine processing 2.6M+ orders/sec via lock-free MPSC/SPSC queues with sub-microsecond P99 latency. Parses NASDAQ TotalView-ITCH 5.0 protocol and streams live order book data at 60Hz to a React dashboard over a self-implemented WebSocket server.
@@ -38,9 +40,6 @@
 
 **[Snap2Plan](https://snap-2-plan.vercel.app/)** · Next.js 16, TypeScript, Supabase
 > AI-powered SaaS task manager using Claude (Anthropic) and Gemini Vision APIs to extract structured tasks from handwritten notes, photos, and voice input. Features real-time Kanban sync, Google Calendar OAuth 2.0, and automated email reminders via Vercel cron.
-
-**[PageCraft AI](https://github.com/rcodeborg2311)** · TypeScript, React, Express
-> Prompt-to-code tool generating full-stack apps via GPT APIs using WebContainers for in-browser execution — no remote builds. Features a Monaco Editor IDE with live preview and iterative follow-up prompts, cutting dev setup time by ~60%.
 
 ---
 
