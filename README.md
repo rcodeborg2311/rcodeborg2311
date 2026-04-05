@@ -26,6 +26,10 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+**[HF Market Microstructure Signal Platform](https://high-frequency-microstructure-sig.vercel.app/)** · Python, FastAPI, React, WebSocket
+> Real-time high-frequency signal platform ingesting Coinbase Advanced Trade WebSocket feed to compute microstructure signals — order flow imbalance, trade intensity, bid-ask spread dynamics, and volume-weighted price impact. Streams live signals to a React dashboard with sub-100ms latency and REST endpoints for historical signal replay and regime analysis.
+
+
 **[Heston Stochastic Volatility Calibration Engine](https://heston-calibration-engine.vercel.app/)** · C++20, Python, FastAPI
 > Production-grade options pricing and calibration engine implementing the Heston model via Carr-Madan FFT (N=4096, FFTW3), two-phase Differential Evolution + Levenberg-Marquardt calibration, and a Craig-Sneyd ADI PDE solver. Achieves sub-basis-point RMSE with 139/139 Catch2 tests passing, deployed as a live interactive dashboard.
 
