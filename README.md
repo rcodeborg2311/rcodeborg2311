@@ -1,95 +1,233 @@
-<h1 align="center">Hi 👋, I'm Ridham</h1>
-<h3 align="center">CS @ Arizona State University · Quant & Systems Engineer · GPA 3.89 · Dean's List</h3>
+````markdown
+<h1 align="center">Hi, I'm Ridham Patel 👋</h1>
+
+<h3 align="center">
+  M.S. Computer Science @ USC · ML Systems · High-Performance C++ · Quantitative Engineering
+</h3>
 
 <p align="center">
-  I build low-latency trading systems, quantitative research tools, and full-stack AI applications.
-  Currently exploring reinforcement learning for market microstructure and high-performance C++ systems.
+  B.S. Computer Science @ Arizona State University · GPA 3.89/4.00 · Dean's List
 </p>
 
-<br/>
-<h3 align="left">🔗 Connect with me</h3>
-<p align="left">
-  <a href="mailto:ridhamap@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/ridham-patel-2003as12/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.ridhamcodes.com">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
+<p align="center">
+  I build performance-critical systems across machine learning, quantitative finance, and distributed software.
+  My current interests include deep learning systems, GPU inference, low-latency C++, market microstructure,
+  and open-source infrastructure.
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.ridhamcodes.com"><strong>Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/rcodeborg2311"><strong>GitHub</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ridham-patel-2003as12/"><strong>LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ridhamap@gmail.com"><strong>Email</strong></a>
+</p>
 
 ---
 
-<h3 align="left">🚀 Featured Projects</h3>
+## About Me
 
-**[HF Market Microstructure Signal Platform](https://high-frequency-microstructure-sig.vercel.app/)** · Python, FastAPI, React, WebSocket
-> Real-time high-frequency signal platform ingesting Coinbase Advanced Trade WebSocket feed to compute microstructure signals — order flow imbalance, trade intensity, bid-ask spread dynamics, and volume-weighted price impact. Streams live signals to a React dashboard with sub-100ms latency and REST endpoints for historical signal replay and regime analysis.
-
-
-**[Heston Stochastic Volatility Calibration Engine](https://heston-calibration-engine.vercel.app/)** · C++20, Python, FastAPI
-> Production-grade options pricing and calibration engine implementing the Heston model via Carr-Madan FFT (N=4096, FFTW3), two-phase Differential Evolution + Levenberg-Marquardt calibration, and a Craig-Sneyd ADI PDE solver. Achieves sub-basis-point RMSE with 139/139 Catch2 tests passing, deployed as a live interactive dashboard.
-
-**[Lock-Free Limit Order Book](https://lob-engine-lock-free.vercel.app/)** · C++20, React, TypeScript
-> Price-time priority matching engine processing 2.6M+ orders/sec via lock-free MPSC/SPSC queues with sub-microsecond P99 latency. Parses NASDAQ TotalView-ITCH 5.0 protocol and streams live order book data at 60Hz to a React dashboard over a self-implemented WebSocket server.
-
-**[Statistical Arbitrage Research Platform](https://statistical-arbitrage-research-platform-dzkhyve2i625wwbzlrknbz.streamlit.app/)** · Python, Streamlit
-> Production-grade pairs trading backtester using Engle-Granger & Johansen cointegration, Kalman filter hedge ratio estimation, and a risk-parity portfolio engine with CVaR, HAC Sharpe, and 2,000-path Monte Carlo simulation. 163/163 pytest tests passing.
-
-**[RL Market-Making Agent](https://rlmarketmaker-7yho3khdjxpcsppuwappuas.streamlit.app/)** · Python, PyTorch, Plotly Dash
-> PPO-trained agent quoting BTC-USD bid/ask spreads from Coinbase Advanced Trade REST API data. Implements Avellaneda-Stoikov reward shaping with a 20-dimensional microstructure state vector — achieves 2.4× higher PnL vs. TWAP baseline across 100 out-of-sample episodes.
-
-**[Snap2Plan](https://snap-2-plan.vercel.app/)** · Next.js 16, TypeScript, Supabase
-> AI-powered SaaS task manager using Claude (Anthropic) and Gemini Vision APIs to extract structured tasks from handwritten notes, photos, and voice input. Features real-time Kanban sync, Google Calendar OAuth 2.0, and automated email reminders via Vercel cron.
+- 🎓 **M.S. Computer Science @ University of Southern California** — Expected May 2028
+- 🎓 **B.S. Computer Science @ Arizona State University** — May 2026
+- ⚙️ Interested in **ML systems, GPU computing, compilers, distributed systems, and low-latency C++**
+- 📈 Building quantitative systems around **market microstructure, execution, and stochastic modeling**
+- 🔬 Experience in **research engineering, machine learning, simulation systems, and GPU-backed infrastructure**
+- 🌱 Currently going deeper into **PyTorch internals, Triton/CUDA, LLM inference, and open-source systems work**
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+## Featured Engineering Work
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-</div>
+### ⚡ [Lock-Free Limit Order Book](https://lob-engine-lock-free.vercel.app/)
 
-<br/>
+**C++20 · Concurrency · Systems Performance · React**
+
+Price-time-priority matching engine built around lock-free MPSC/SPSC queues, cache-line isolation, preallocated data structures, and zero heap allocation on the matching hot path.
+
+- Sustains **2.6M+ orders/sec**
+- Measures **sub-microsecond P99 matching latency**
+- Parses **NASDAQ TotalView-ITCH 5.0**
+- Implements pre-trade risk controls and exchange order semantics
+- Streams live book state to a React/TypeScript visualization
+
+> Focus: concurrency, cache behavior, latency, data structures, and reproducible systems benchmarking.
 
 ---
 
-<h3 align="left">📬 Reach Me</h3>
+### 📊 [HF Market Microstructure Signal Platform](https://high-frequency-microstructure-sig.vercel.app/)
 
-- 📧 ridham412work@gmail.com
-- 💼 [linkedin.com/in/ridham-patel-2003as12](https://www.linkedin.com/in/ridham-patel-2003as12/)
-- 💻 [github.com/rcodeborg2311](https://github.com/rcodeborg2311)
+**C++20 · Python · FastAPI · WebSockets · React**
 
-<br/>
+Real-time market microstructure research and analytics platform built around live order-book data.
 
-<div align="left">
-  <img height="180" src="https://media1.tenor.com/m/bxe8Qsx3UusAAAAC/cat.gif" alt="cat gif" />
-</div>
+- C++ feature engine benchmarked at **1M LOB snapshots/sec**
+- Computes **order-flow imbalance, VPIN, Kyle's λ, realized volatility, and Hawkes-process intensity**
+- Streams analytics through FastAPI/WebSockets
+- Includes Avellaneda–Stoikov and Cartea–Jaimungal market-making models
+- Numerical components validated with Python and Catch2 tests
 
-<br/>
+> Focus: high-throughput data processing, quantitative research, numerical validation, and real-time systems.
 
-<div align="center">
-  <h1 style="font-family: 'Brush Script MT', cursive; font-size: 48px; color: #FF4500;">Carpe Diem.</h1>
-</div>
+---
+
+### 🧮 [Heston Stochastic Volatility Calibration Engine](https://heston-calibration-engine.vercel.app/)
+
+**C++20 · Numerical Methods · Python · FastAPI**
+
+Options pricing and calibration engine implementing the Heston stochastic-volatility model.
+
+- Carr–Madan FFT pricing with **N=4096**
+- Differential Evolution + Levenberg–Marquardt calibration
+- Craig–Sneyd ADI PDE solver for independent validation
+- **139/139 Catch2 tests passing**
+- Interactive web interface for calibration and parameter exploration
+
+> Focus: numerical computing, optimization, stochastic models, validation, and C++ performance.
+
+---
+
+### 🤖 [Snap2Plan](https://snap-2-plan.vercel.app/)
+
+**Next.js · TypeScript · Supabase · PostgreSQL · AI APIs**
+
+Multimodal task-management application that converts unstructured input into structured workflows.
+
+- Extracts tasks from handwritten notes, images, and voice
+- Real-time Kanban synchronization
+- PostgreSQL + Supabase Row-Level Security
+- Google Calendar OAuth 2.0 integration
+- Scheduled reminders and automated deployment through Vercel
+
+> Focus: product engineering, multimodal AI integration, distributed application state, and full-stack deployment.
+
+---
+
+## Quantitative Research
+
+### [Statistical Arbitrage Research Platform](https://statistical-arbitrage-research-platform-dzkhyve2i625wwbzlrknbz.streamlit.app/)
+
+Research framework for evaluating pairs-trading hypotheses using:
+
+- Engle–Granger and Johansen cointegration
+- Kalman-filter hedge-ratio estimation
+- CVaR and risk-parity portfolio construction
+- HAC-adjusted Sharpe ratios
+- Monte Carlo simulation
+- Out-of-sample validation
+
+The project emphasizes **rejecting strategies that fail out-of-sample**, rather than optimizing solely for attractive backtest results.
+
+---
+
+### [RL Market-Making Agent](https://rlmarketmaker-7yho3khdjxpcsppuwappuas.streamlit.app/)
+
+PPO-based market-making agent operating on BTC-USD microstructure state.
+
+- 20-dimensional market-state representation
+- Inventory-aware reward formulation
+- Avellaneda–Stoikov-inspired objective
+- Out-of-sample evaluation across 100 episodes
+- Compared against baseline execution strategies
+
+> Current interest: making the evaluation framework more rigorous with stronger market-making baselines and statistical confidence intervals.
+
+---
+
+## Current Technical Focus
+
+```text
+Deep Learning Systems
+├── PyTorch internals
+├── Triton / CUDA kernels
+├── Transformer inference
+├── KV-cache optimization
+├── torch.compile / TorchInductor
+└── GPU performance profiling
+
+High-Performance Systems
+├── C++20
+├── Lock-free concurrency
+├── Cache-aware design
+├── Linux performance
+├── Networking
+└── Latency benchmarking
+
+Quantitative Systems
+├── Market microstructure
+├── Execution systems
+├── Stochastic modeling
+├── Time-series analysis
+└── Real-time market data
+````
+
+---
+
+## Technical Stack
+
+**Languages**
+
+`C++20` · `Python` · `Rust` · `C` · `Java` · `TypeScript` · `JavaScript` · `SQL`
+
+**ML / Numerical**
+
+`PyTorch` · `TensorFlow` · `NumPy` · `SciPy` · `Pandas` · `Scikit-learn` · `OpenCV`
+
+**Systems / Infrastructure**
+
+`Linux` · `Docker` · `Kubernetes` · `AWS` · `Git` · `PostgreSQL` · `WebSockets`
+
+**Currently Learning**
+
+`CUDA` · `Triton` · `torch.compile` · `GPU Profiling` · `LLM Inference Systems`
+
+---
+
+## Research & Engineering Experience
+
+**Research Aide — ASU School of Computing and Augmented Intelligence**
+
+Worked on computer-vision and LLM-based methods for biomedical imaging, including architecture benchmarking, failure-mode analysis, and experimental evaluation.
+
+**Research Assistant — ASU Biodesign**
+
+Developed Rust–Python interfaces for high-performance simulation components and extended simulation tooling with spatial modeling and real-time visualization.
+
+**Machine Learning Intern — WDWIL / Magik Kraft**
+
+Built TensorFlow/PyTorch defect-detection pipelines and deployed GPU-backed training and inference workloads on AWS using Docker and Kubernetes.
+
+---
+
+## What I'm Looking For
+
+I'm particularly interested in internship and research opportunities involving:
+
+* **ML Systems / AI Infrastructure**
+* **GPU / Inference Performance**
+* **C++ Systems Engineering**
+* **Quantitative Development**
+* **Distributed Systems**
+* **Open-Source Infrastructure**
+
+If you're working on difficult performance, ML infrastructure, or quantitative systems problems, I'd love to connect.
+
+---
+
+<p align="center">
+  <a href="mailto:ridhamap@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/ridham-patel-2003as12/">LinkedIn</a>
+  ·
+  <a href="https://www.ridhamcodes.com">Portfolio</a>
+</p>
+
+<h3 align="center"><i>Carpe Diem.</i></h3>
+```
+
+The biggest upgrades are the **USC status**, a much clearer engineering identity, fewer decorative icons, no duplicated contact section, no giant logo wall, and project descriptions that emphasize **engineering evidence instead of “production-grade” marketing language**.
+
+I also surfaced your professional research/internship experience directly on the profile, because recruiters visiting GitHub should not have to infer that you have real experience from projects alone.
+
+I’ve surfaced the GitHub connection option as well. If you connect it, I can work with the repository directly rather than you having to paste the README manually.
