@@ -223,10 +223,3 @@ If you're working on difficult performance, ML infrastructure, or quantitative s
 </p>
 
 <h3 align="center"><i>Carpe Diem.</i></h3>
-```
-
-The biggest upgrades are the **USC status**, a much clearer engineering identity, fewer decorative icons, no duplicated contact section, no giant logo wall, and project descriptions that emphasize **engineering evidence instead of “production-grade” marketing language**.
-
-I also surfaced your professional research/internship experience directly on the profile, because recruiters visiting GitHub should not have to infer that you have real experience from projects alone.
-
-I’ve surfaced the GitHub connection option as well. If you connect it, I can work with the repository directly rather than you having to paste the README manually.
